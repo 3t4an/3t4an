@@ -10,19 +10,25 @@ My exploration in technology and software development has led me to a strong int
 
 | Skill | Progress | Associated Project(s) |
 | ----- | -------- | --------------------- | 
-| Python Fundamentals | Solid Foundation | [CLI-Toolkit Project](https://github.com/3t4an/CLI-Toolkit_Project) |
-| Networking Fundamental | Learning | |
-| IT Fundamentals | Learning | |
-| Windows Command-Line Interface | Learning | [CLI-Toolkit Project](https://github.com/3t4an/CLI-Toolkit_Project) |
-| Windows PowerShell | Learning | |
-| Security Fundamentals | Beginning | |
+| Python Fundamentals | ✅ Solid Foundation | [CLI-Toolkit Project](https://github.com/3t4an/CLI-Toolkit_Project) |
+| Networking Fundamental | 🧠 Learning | |
+| IT Fundamentals | 🧠 Learning | |
+| Windows Batch | 🧠 Learning | [CLI-Toolkit Project](https://github.com/3t4an/CLI-Toolkit_Project) |
+| Windows PowerShell | 🧠 Learning | |
+| Security Fundamentals | 💭 Beginning | |
 
 ## Tools
-<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-blue?logo=python&logoColor=white" /></a>
+### Scripting
+![Static Badge](https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=white)<br>
+![Static Badge](https://img.shields.io/badge/powershell-blue?style=for-the-badge)<br>
+![Static Badge](https://img.shields.io/badge/batch-black?style=for-the-badge)<br>
 
 ## Certifications
 
-*still earning...*
+![Static Badge](https://img.shields.io/badge/Google_Cybersecurity-planning-orange?style=for-the-badge&logo=google)<br>
+![Static Badge](https://img.shields.io/badge/Google_IT_Support-planning-orange?style=for-the-badge&logo=google)<br>
+![Static Badge](https://img.shields.io/badge/CompTIA_Security%2B-planning-orange?style=for-the-badge&logo=CompTIA)<br>
+![Static Badge](https://img.shields.io/badge/CompTIA_Network%2B-planning-orange?style=for-the-badge&logo=CompTIA)<br>
 
 ## Projects
 1. [CLI-Toolkit Project](https://github.com/3t4an/CLI-Toolkit_Project)
