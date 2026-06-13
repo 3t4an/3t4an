@@ -20,8 +20,8 @@ My current focus is building a strong foundation in IT, networking, operating sy
 | Log Analysis | 🧠 Learning | |
 
 ## Certifications
-![Static Badge](https://img.shields.io/badge/Google_IT_Support-planning-orange?style=for-the-badge&logo=google)<br>
-![Static Badge](https://img.shields.io/badge/Google_Cybersecurity-planning-orange?style=for-the-badge&logo=google)<br>
+<a href="https://www.coursera.org/professional-certificates/google-it-support"><img src="https://img.shields.io/badge/Google_IT_Support-planning-orange?style=for-the-badge&logo=google" /></br>
+<a href="https://www.coursera.org/professional-certificates/google-cybersecurity"><img src="https://img.shields.io/badge/Google_Cybersecurity-planning-orange?style=for-the-badge&logo=google" /></br>
 ![Static Badge](https://img.shields.io/badge/CompTIA_Security%2B-planning-orange?style=for-the-badge&logo=CompTIA)<br>
 ![Static Badge](https://img.shields.io/badge/CompTIA_Network%2B-planning-orange?style=for-the-badge&logo=CompTIA)<br>
 
