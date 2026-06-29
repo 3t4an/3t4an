@@ -17,7 +17,6 @@ My current focus is building a strong foundation in IT, networking, operating sy
 | Operating Systems | 🧠 Learning | [CLI-Toolkit Project](https://github.com/3t4an/CLI-Toolkit_Project) |
 | Windows Batch | 🧠 Learning | [CLI-Toolkit Project](https://github.com/3t4an/CLI-Toolkit_Project) |
 | Windows PowerShell | 🧠 Learning | |
-| Log Analysis | 🧠 Learning | |
 
 ## Certifications
 <a href="https://www.coursera.org/professional-certificates/google-it-support"><img src="https://img.shields.io/badge/Google_IT_Support-In_Progress-blue?style=for-the-badge&logo=google" /></br>
