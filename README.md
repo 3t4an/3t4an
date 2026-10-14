@@ -2,7 +2,9 @@
 
 # Ethan Tran
 
-Hello I'm Ethan, I am a high school student and I am focusing my self-studies in the world of programming and cybersecurity. I am aiming to learn the foundations of IT and Cybersecurity in order to use these skills in the future. I am currently building Python project in order to strength my foundation in the language.
+Hello I'm Ethan, I am a high school student, practicing Catholic, and I am focusing my self-studies in the world of programming and cybersecurity. I am currently building Python projects in order to strength my foundation in the language. <br/>
+### • <br/>
+My work and effort is put into learning the topics necessary in order to succeed in the career I aim for in the future. I have found interest in the field of cybersecurity and look towards a career in the related such.
 
 <br/>
 
