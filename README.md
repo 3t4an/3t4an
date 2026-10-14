@@ -11,6 +11,7 @@ Hello I'm Ethan, I am a high school student and I am focusing my self-studies in
 ## Languages
 ![Static Badge](https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/HTML5-orange?style=flat-square&logo=html5&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Javascript-%23F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
 
 ## Featured Projects
 
