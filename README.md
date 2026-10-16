@@ -58,7 +58,7 @@ I learned that data format affects performance. My first attempt was to create i
 ## Progress
 ### Current Focus
 - Build projects to solidify my Python foundation.
-- Learn about and work on the [Machine Learning](https://github.com/3t4an/Neural-Networks) project.
+- Revamp the [CLI Toolkit Project](https://github.com/3t4an/CLI-Toolkit_Project) to be more presentable, user-friendly, and operational.
 ### Recent Acheivements
 - Taking AP CSP and learning using HTML5 and Javascript.
 - Finished and published [Conway's Game of Life](https://github.com/3t4an/Conways-Game-of-Life) for my Python foundation.
