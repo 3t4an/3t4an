@@ -67,4 +67,6 @@ I learned that data format affects performance. My first attempt was to create i
 - Resume progress with [Google IT Support Professional Certificate](https://www.coursera.org/professional-certificates/google-it-support).
 
 ## Contact
-ethandtran5@gmail.com
+<div align=center>
+<a href="mailto:ethandtran5@gmail.com"><img src="https://img.shields.io/badge/ethandtran5@gmail.com-white?style=for-the-badge&logo=Gmail&logoColor=%23EA4335" /></a>
+</div>
